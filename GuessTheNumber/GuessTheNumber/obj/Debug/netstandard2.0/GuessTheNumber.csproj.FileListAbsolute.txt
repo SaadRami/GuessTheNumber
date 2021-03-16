@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\netstandard2.0\GuessTheNumber.deps.json
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\netstandard2.0\GuessTheNumber.dll
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\netstandard2.0\ref\GuessTheNumber.dll
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\netstandard2.0\GuessTheNumber.pdb
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.dll
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\ref\GuessTheNumber.dll
+C:\Users\ACER\source\repos\GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\netstandard2.0\GuessTheNumber.pdb
